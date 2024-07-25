@@ -7471,6 +7471,10 @@ flutter_lints
 flutter_markdown
 google_identity_services_web
 plugin_platform_interface
+pointer_interceptor
+pointer_interceptor_ios
+pointer_interceptor_platform_interface
+pointer_interceptor_web
 url_launcher
 url_launcher_android
 url_launcher_ios
